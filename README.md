@@ -1,11 +1,23 @@
-1. I have identified the Top 5 and Bottom 5 products based on Sales, Profit, and Quantity Sold.
-2. I have analyzed sales trends over time at daily, monthly, quarterly, and annual levels to understand the overall sales pattern.
-3. I have visualized the relationship between Sales and Profit to understand how changes in sales are associated with profitability.
-4. I have created a comparison that allows users to compare Sales, Profit, and Quantity Sold between any two user-selected time periods.
-5. I have calculated and visualized the average discount offered across each discount category.
-6. I have calculated the total number of orders placed.
-7. I have created a detailed order-level view displaying Sales, Profit, Discount, Net Sales, and other relevant fields. The data can be dynamically filtered using visual filters such as Product, Date, Customer ID, and Promotion Category.
-8. I have analyzed and visualized Sales across different cities to understand geographical sales performance.
+## Features
+
+**Product performance**
+- Top 5 and Bottom 5 products ranked by sales, profit, and quantity sold
+
+**Sales trends**
+- Sales trends at daily, monthly, quarterly, and annual granularity
+- Period comparison: sales, profit, and quantity sold across any two user-selected time periods
+
+**Profitability**
+- Sales vs. profit view showing how movements in sales track against profitability
+- Average discount offered across each discount category
+
+**Orders**
+- Total orders placed
+- Order-level detail with sales, profit, discount, net sales, and related fields, filterable by product, date, customer ID, and promotion category
+
+**Geography**
+- Sales across cities, for geographical performance
+
 
 <img width="1270" height="715" alt="image" src="https://github.com/user-attachments/assets/9b378679-64f2-4344-84d0-614c288b40da" />
 <img width="1266" height="712" alt="image" src="https://github.com/user-attachments/assets/f9e7ec22-bffc-4c52-8c3d-8ddb68dfe231" />
